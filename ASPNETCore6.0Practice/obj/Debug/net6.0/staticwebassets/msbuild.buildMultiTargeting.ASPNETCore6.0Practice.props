@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPNETCore6.0Practice.props" />
+</Project>
