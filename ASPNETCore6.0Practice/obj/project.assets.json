@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cookb\\OneDrive - Farm Credit Services of America\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice.csproj",
+      "projectUniqueName": "C:\\Users\\cookb\\OneDrive - Farm Credit Services of America\\ASPNETCore6MVCApplicationPractice\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice.csproj",
       "projectName": "ASPNETCore6.0Practice",
-      "projectPath": "C:\\Users\\cookb\\OneDrive - Farm Credit Services of America\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice.csproj",
+      "projectPath": "C:\\Users\\cookb\\OneDrive - Farm Credit Services of America\\ASPNETCore6MVCApplicationPractice\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice.csproj",
       "packagesPath": "C:\\Users\\cookb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cookb\\OneDrive - Farm Credit Services of America\\ASPNETCore6.0Practice\\ASPNETCore6.0Practice\\obj\\",
+      "outputPath": "C:\\Users\\cookb\\OneDrive - Farm Credit Services of America\\ASPNETCore6MVCApplicationPractice\\ASPNETCore6.0Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cookb\\AppData\\Roaming\\NuGet\\NuGet.Config",

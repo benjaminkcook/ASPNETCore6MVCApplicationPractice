@@ -9,17 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASPNETCore6._0Practice
 build_property.RootNamespace = ASPNETCore6._0Practice
-build_property.ProjectDir = C:\Users\cookb\OneDrive - Farm Credit Services of America\ASPNETCore6.0Practice\ASPNETCore6.0Practice\
+build_property.ProjectDir = C:\Users\cookb\OneDrive - Farm Credit Services of America\ASPNETCore6MVCApplicationPractice\ASPNETCore6.0Practice\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\cookb\OneDrive - Farm Credit Services of America\ASPNETCore6.0Practice\ASPNETCore6.0Practice
+build_property.MSBuildProjectDirectory = C:\Users\cookb\OneDrive - Farm Credit Services of America\ASPNETCore6MVCApplicationPractice\ASPNETCore6.0Practice
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/cookb/OneDrive - Farm Credit Services of America/ASPNETCore6.0Practice/ASPNETCore6.0Practice/Views/Pie/List.cshtml]
+[C:/Users/cookb/OneDrive - Farm Credit Services of America/ASPNETCore6MVCApplicationPractice/ASPNETCore6.0Practice/Views/Pie/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cookb/OneDrive - Farm Credit Services of America/ASPNETCore6.0Practice/ASPNETCore6.0Practice/Views/Shared/_Layout.cshtml]
+[C:/Users/cookb/OneDrive - Farm Credit Services of America/ASPNETCore6MVCApplicationPractice/ASPNETCore6.0Practice/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cookb/OneDrive - Farm Credit Services of America/ASPNETCore6MVCApplicationPractice/ASPNETCore6.0Practice/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cookb/OneDrive - Farm Credit Services of America/ASPNETCore6MVCApplicationPractice/ASPNETCore6.0Practice/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
